@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables (secrets)
+.env
+
+# Input recordings — NEVER commit real interview videos
+inputs/*.mp4
+inputs/*.mkv
+inputs/*.mov
+inputs/*.avi
+inputs/*.webm
+
+# Generated outputs — gitignored, local only
+outputs/
+!outputs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

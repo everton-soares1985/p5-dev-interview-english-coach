@@ -1,0 +1,20 @@
+# Fictional example — for demo and testing only
+# Do NOT use real interview transcripts in this repository
+
+Interviewer: Tell me about yourself.
+Candidate: I am automation engineer and I working with Python and AI tools for three years. I like to build things that save time.
+
+Interviewer: What kind of projects have you built?
+Candidate: I built automations for content creation and data process. Also I make a tool that connect to browser and collect job listings automatic.
+
+Interviewer: How do you handle errors in production systems?
+Candidate: I use try except in Python and I log the errors. If have too many errors I stop the process and send a alert.
+
+Interviewer: How do you work in a remote team?
+Candidate: I use Slack for communicate and I document everything in markdown. I prefer async work because I can focus better without interruptions.
+
+Interviewer: What is your biggest technical challenge recently?
+Candidate: I had to build a system that was working even when the internet connection was bad. I implement a circuit breaker pattern and it was work very well.
+
+Interviewer: Do you have any questions for us?
+Candidate: Yes. I want to know how the team do code reviews and what is the process for deploy new features.
