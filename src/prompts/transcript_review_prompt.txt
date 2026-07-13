@@ -13,7 +13,10 @@ Focus ONLY on:
 Return your full analysis using EXACTLY these 8 section headers, in this exact order. Use rich GitHub-flavored Markdown formatting (tables, blockquotes, bold text, checklists, badges) inside each section to make the output highly structured, visual, and professional:
 
 ## TRANSCRIPT
-Format the dialogue cleanly with clear speaker turns. Use **Interviewer:** and **Candidate:** in bold. Separate different questions with horizontal rules (`---`).
+Format the dialogue cleanly with clear speaker turns and distinct visual differentiation between speakers so they are easy to read across any theme or editor:
+- **Interviewer questions:** Format as a blockquote with a blue icon: `> 🔵 **Interviewer** \`[timestamp]\`: Exact words.`
+- **Candidate responses:** Format as regular clean text with a white icon: `⚪ **Candidate** \`[timestamp]\`: Exact words.`
+Separate different dialogue exchanges or topic shifts with horizontal rules (`---`).
 
 ## ENGLISH_FEEDBACK
 Start with a prominent level badge such as: `### 🎯 Estimated Level: B1 (Intermediate)`
@@ -56,10 +59,12 @@ For each interview question or topic discussed (`### Q1: [Question/Topic Title]`
 - **Goal:** How an experienced native or highly fluent global senior engineer would naturally explain this on the spot. Clear, compelling, well-structured (concise STAR structure if applicable), but 100% human and conversational.
 
 ## VOCABULARY_TO_STUDY
-Create a comprehensive Markdown table of technical and professional phrases the candidate should master:
-| Word / Phrase | Professional Definition | Example Sentence (Interview Context) | Target Level |
-| :--- | :--- | :--- | :---: |
-| *e.g., robust architecture* | Resilient system design... | "We built a robust architecture to handle..." | C1 |
+Present technical and professional phrases the candidate should master as structured, clean study cards (NEVER use a Markdown table for vocabulary, as tables wrap horizontally and become unreadable). Format each item cleanly:
+
+### 1. ⚡ [Word / Phrase] (`Target Level: B2/C1`)
+- **Professional Definition:** Clear, concise definition of the term.
+- **Example in Interview Context:** *"Authentic example sentence illustrating how to use it when answering technical questions."*
+- **Coaching Note:** Why replacing basic vocabulary with this term elevates your perceived seniority.
 
 ## GRAMMAR_PATTERNS
 Structure each recurring grammar mistake as a distinct section with bold headers:
