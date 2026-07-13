@@ -50,7 +50,16 @@ For each answer with errors, present a clear side-by-side comparison or block co
 > 📌 **Rule:** Brief explanation of the grammar rule or mistake type.
 
 ## IMPROVED_INTERVIEW_ANSWERS
-Present high-impact, professional-level rewrites (`C1/Native` level) suitable for remote USD/EUR software engineering interviews. Number each question clearly (`### Q1: Tell me about yourself`) and highlight strong technical vocabulary and STAR method structure in **bold**.
+For each interview question or topic discussed (`### Q1: [Question/Topic Title]`), provide TWO distinct versions of improved answers. Both versions MUST sound like a real human speaking naturally in an interview (SPOKEN-FIRST ENGLISH), strictly avoiding robotic corporate buzzwords, long academic essays, or artificial C2 vocabulary (`spearheaded`, `delved`, `orchestrated`, `testament`).
+
+**1. 🗣️ Option 1: Level-Up Natural Answer (Your Level + Next Step):**
+- **Target Level:** Intermediate to Advanced (`B2+ / Clean C1`).
+- **Goal:** Easy to pronounce, natural for a non-native English speaker, concise (3 to 4 short spoken sentences max).
+- **Format:** Present the direct spoken answer, followed by `💡 **Coaching Tip:**` explaining why this structure works and how to deliver it confidently.
+
+**2. 🌟 Option 2: Human Native Senior Dev Answer (Advanced & Idiomatic):**
+- **Target Level:** Natural Senior Engineer (`International / Native Fluent`).
+- **Goal:** How an experienced native or highly fluent global senior engineer would naturally explain this on the spot. Clear, compelling, well-structured (concise STAR structure if applicable), but 100% human and conversational.
 
 ## VOCABULARY_TO_STUDY
 Create a comprehensive Markdown table of technical and professional phrases the candidate should master:
